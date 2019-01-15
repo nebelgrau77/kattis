@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 15 10:06:34 2019
 
-@author: u076079
+@author: nebelgrau
 """
 
 # Kornislav
